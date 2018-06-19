@@ -1,4 +1,5 @@
 <?php
+
 class AdminHelpController extends Controller {
 	private $helpDao;
     public $helpModel;
