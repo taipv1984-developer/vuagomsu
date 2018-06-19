@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /protected/
+Disallow: /vdocs/
+Sitemap: http://gomlam.com.vn/sitemap.xml

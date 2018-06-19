@@ -1,0 +1,239 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/11/2016 08:11
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-apron:before { content: "\f100"; }
+.flaticon-barbecue:before { content: "\f101"; }
+.flaticon-bottle-opener:before { content: "\f102"; }
+.flaticon-bowl:before { content: "\f103"; }
+.flaticon-brush:before { content: "\f104"; }
+.flaticon-cabinet:before { content: "\f105"; }
+.flaticon-cabinet-1:before { content: "\f106"; }
+.flaticon-cabinet-2:before { content: "\f107"; }
+.flaticon-chef:before { content: "\f108"; }
+.flaticon-cleaver:before { content: "\f109"; }
+.flaticon-cocktail:before { content: "\f10a"; }
+.flaticon-coffee-grinder:before { content: "\f10b"; }
+.flaticon-coffee-maker:before { content: "\f10c"; }
+.flaticon-coffee-maker-1:before { content: "\f10d"; }
+.flaticon-coffee-pot:before { content: "\f10e"; }
+.flaticon-conserve:before { content: "\f10f"; }
+.flaticon-conserve-1:before { content: "\f110"; }
+.flaticon-corkscrew:before { content: "\f111"; }
+.flaticon-cup:before { content: "\f112"; }
+.flaticon-cutlery:before { content: "\f113"; }
+.flaticon-dinner:before { content: "\f114"; }
+.flaticon-dish:before { content: "\f115"; }
+.flaticon-dishes:before { content: "\f116"; }
+.flaticon-dishwasher:before { content: "\f117"; }
+.flaticon-eggs:before { content: "\f118"; }
+.flaticon-extractor-hood:before { content: "\f119"; }
+.flaticon-extractor-hood-1:before { content: "\f11a"; }
+.flaticon-fork:before { content: "\f11b"; }
+.flaticon-freezer:before { content: "\f11c"; }
+.flaticon-fridge:before { content: "\f11d"; }
+.flaticon-fridge-1:before { content: "\f11e"; }
+.flaticon-garbage:before { content: "\f11f"; }
+.flaticon-glass:before { content: "\f120"; }
+.flaticon-grater:before { content: "\f121"; }
+.flaticon-ice-cube-tray:before { content: "\f122"; }
+.flaticon-jar:before { content: "\f123"; }
+.flaticon-kettle:before { content: "\f124"; }
+.flaticon-kettle-1:before { content: "\f125"; }
+.flaticon-kettle-2:before { content: "\f126"; }
+.flaticon-kitchen-board:before { content: "\f127"; }
+.flaticon-kitchen-board-1:before { content: "\f128"; }
+.flaticon-knife:before { content: "\f129"; }
+.flaticon-knife-1:before { content: "\f12a"; }
+.flaticon-ladle:before { content: "\f12b"; }
+.flaticon-ladle-1:before { content: "\f12c"; }
+.flaticon-measuring-cup:before { content: "\f12d"; }
+.flaticon-microwave:before { content: "\f12e"; }
+.flaticon-milk:before { content: "\f12f"; }
+.flaticon-mitten:before { content: "\f130"; }
+.flaticon-mixer:before { content: "\f131"; }
+.flaticon-mixer-1:before { content: "\f132"; }
+.flaticon-mixer-2:before { content: "\f133"; }
+.flaticon-mixer-3:before { content: "\f134"; }
+.flaticon-molded:before { content: "\f135"; }
+.flaticon-molded-1:before { content: "\f136"; }
+.flaticon-molded-2:before { content: "\f137"; }
+.flaticon-mortar:before { content: "\f138"; }
+.flaticon-napkin:before { content: "\f139"; }
+.flaticon-olive-oil:before { content: "\f13a"; }
+.flaticon-oven:before { content: "\f13b"; }
+.flaticon-paddle:before { content: "\f13c"; }
+.flaticon-paella:before { content: "\f13d"; }
+.flaticon-pan:before { content: "\f13e"; }
+.flaticon-peeler:before { content: "\f13f"; }
+.flaticon-pepper:before { content: "\f140"; }
+.flaticon-pizza-cutter:before { content: "\f141"; }
+.flaticon-platter:before { content: "\f142"; }
+.flaticon-pot:before { content: "\f143"; }
+.flaticon-pot-1:before { content: "\f144"; }
+.flaticon-recipe:before { content: "\f145"; }
+.flaticon-recipe-1:before { content: "\f146"; }
+.flaticon-recipe-2:before { content: "\f147"; }
+.flaticon-rolling-pin:before { content: "\f148"; }
+.flaticon-salt-shaker:before { content: "\f149"; }
+.flaticon-saucepan:before { content: "\f14a"; }
+.flaticon-sauces:before { content: "\f14b"; }
+.flaticon-scoop:before { content: "\f14c"; }
+.flaticon-skimmer:before { content: "\f14d"; }
+.flaticon-soap-dispenser:before { content: "\f14e"; }
+.flaticon-spatula:before { content: "\f14f"; }
+.flaticon-squeezer:before { content: "\f150"; }
+.flaticon-stove:before { content: "\f151"; }
+.flaticon-strainer:before { content: "\f152"; }
+.flaticon-strainer-1:before { content: "\f153"; }
+.flaticon-table:before { content: "\f154"; }
+.flaticon-table-1:before { content: "\f155"; }
+.flaticon-tap:before { content: "\f156"; }
+.flaticon-tap-1:before { content: "\f157"; }
+.flaticon-tea-cup:before { content: "\f158"; }
+.flaticon-tea-cup-1:before { content: "\f159"; }
+.flaticon-thermos:before { content: "\f15a"; }
+.flaticon-timer:before { content: "\f15b"; }
+.flaticon-timer-1:before { content: "\f15c"; }
+.flaticon-toaster:before { content: "\f15d"; }
+.flaticon-towel:before { content: "\f15e"; }
+.flaticon-trash:before { content: "\f15f"; }
+.flaticon-washing-machine:before { content: "\f160"; }
+.flaticon-weight:before { content: "\f161"; }
+.flaticon-wheat:before { content: "\f162"; }
+.flaticon-wine-bottle:before { content: "\f163"; }
+    
+    $font-Flaticon-apron: "\f100";
+    $font-Flaticon-barbecue: "\f101";
+    $font-Flaticon-bottle-opener: "\f102";
+    $font-Flaticon-bowl: "\f103";
+    $font-Flaticon-brush: "\f104";
+    $font-Flaticon-cabinet: "\f105";
+    $font-Flaticon-cabinet-1: "\f106";
+    $font-Flaticon-cabinet-2: "\f107";
+    $font-Flaticon-chef: "\f108";
+    $font-Flaticon-cleaver: "\f109";
+    $font-Flaticon-cocktail: "\f10a";
+    $font-Flaticon-coffee-grinder: "\f10b";
+    $font-Flaticon-coffee-maker: "\f10c";
+    $font-Flaticon-coffee-maker-1: "\f10d";
+    $font-Flaticon-coffee-pot: "\f10e";
+    $font-Flaticon-conserve: "\f10f";
+    $font-Flaticon-conserve-1: "\f110";
+    $font-Flaticon-corkscrew: "\f111";
+    $font-Flaticon-cup: "\f112";
+    $font-Flaticon-cutlery: "\f113";
+    $font-Flaticon-dinner: "\f114";
+    $font-Flaticon-dish: "\f115";
+    $font-Flaticon-dishes: "\f116";
+    $font-Flaticon-dishwasher: "\f117";
+    $font-Flaticon-eggs: "\f118";
+    $font-Flaticon-extractor-hood: "\f119";
+    $font-Flaticon-extractor-hood-1: "\f11a";
+    $font-Flaticon-fork: "\f11b";
+    $font-Flaticon-freezer: "\f11c";
+    $font-Flaticon-fridge: "\f11d";
+    $font-Flaticon-fridge-1: "\f11e";
+    $font-Flaticon-garbage: "\f11f";
+    $font-Flaticon-glass: "\f120";
+    $font-Flaticon-grater: "\f121";
+    $font-Flaticon-ice-cube-tray: "\f122";
+    $font-Flaticon-jar: "\f123";
+    $font-Flaticon-kettle: "\f124";
+    $font-Flaticon-kettle-1: "\f125";
+    $font-Flaticon-kettle-2: "\f126";
+    $font-Flaticon-kitchen-board: "\f127";
+    $font-Flaticon-kitchen-board-1: "\f128";
+    $font-Flaticon-knife: "\f129";
+    $font-Flaticon-knife-1: "\f12a";
+    $font-Flaticon-ladle: "\f12b";
+    $font-Flaticon-ladle-1: "\f12c";
+    $font-Flaticon-measuring-cup: "\f12d";
+    $font-Flaticon-microwave: "\f12e";
+    $font-Flaticon-milk: "\f12f";
+    $font-Flaticon-mitten: "\f130";
+    $font-Flaticon-mixer: "\f131";
+    $font-Flaticon-mixer-1: "\f132";
+    $font-Flaticon-mixer-2: "\f133";
+    $font-Flaticon-mixer-3: "\f134";
+    $font-Flaticon-molded: "\f135";
+    $font-Flaticon-molded-1: "\f136";
+    $font-Flaticon-molded-2: "\f137";
+    $font-Flaticon-mortar: "\f138";
+    $font-Flaticon-napkin: "\f139";
+    $font-Flaticon-olive-oil: "\f13a";
+    $font-Flaticon-oven: "\f13b";
+    $font-Flaticon-paddle: "\f13c";
+    $font-Flaticon-paella: "\f13d";
+    $font-Flaticon-pan: "\f13e";
+    $font-Flaticon-peeler: "\f13f";
+    $font-Flaticon-pepper: "\f140";
+    $font-Flaticon-pizza-cutter: "\f141";
+    $font-Flaticon-platter: "\f142";
+    $font-Flaticon-pot: "\f143";
+    $font-Flaticon-pot-1: "\f144";
+    $font-Flaticon-recipe: "\f145";
+    $font-Flaticon-recipe-1: "\f146";
+    $font-Flaticon-recipe-2: "\f147";
+    $font-Flaticon-rolling-pin: "\f148";
+    $font-Flaticon-salt-shaker: "\f149";
+    $font-Flaticon-saucepan: "\f14a";
+    $font-Flaticon-sauces: "\f14b";
+    $font-Flaticon-scoop: "\f14c";
+    $font-Flaticon-skimmer: "\f14d";
+    $font-Flaticon-soap-dispenser: "\f14e";
+    $font-Flaticon-spatula: "\f14f";
+    $font-Flaticon-squeezer: "\f150";
+    $font-Flaticon-stove: "\f151";
+    $font-Flaticon-strainer: "\f152";
+    $font-Flaticon-strainer-1: "\f153";
+    $font-Flaticon-table: "\f154";
+    $font-Flaticon-table-1: "\f155";
+    $font-Flaticon-tap: "\f156";
+    $font-Flaticon-tap-1: "\f157";
+    $font-Flaticon-tea-cup: "\f158";
+    $font-Flaticon-tea-cup-1: "\f159";
+    $font-Flaticon-thermos: "\f15a";
+    $font-Flaticon-timer: "\f15b";
+    $font-Flaticon-timer-1: "\f15c";
+    $font-Flaticon-toaster: "\f15d";
+    $font-Flaticon-towel: "\f15e";
+    $font-Flaticon-trash: "\f15f";
+    $font-Flaticon-washing-machine: "\f160";
+    $font-Flaticon-weight: "\f161";
+    $font-Flaticon-wheat: "\f162";
+    $font-Flaticon-wine-bottle: "\f163";

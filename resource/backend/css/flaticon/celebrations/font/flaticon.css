@@ -1,0 +1,171 @@
+	/*
+  	flaticon-celebrations icon font: flaticon-celebrations
+  	Creation date: 22/06/2016 15:01
+  	*/
+
+@font-face {
+  font-family: "flaticon-celebrations";
+  src: url("flaticon-celebrations.eot");
+  src: url("flaticon-celebrations.eot?#iefix") format("embedded-opentype"),
+       url("flaticon-celebrations.woff") format("woff"),
+       url("flaticon-celebrations.ttf") format("truetype"),
+       url("flaticon-celebrations.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-celebrations";
+    src: url("flaticon-celebrations.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-celebrations-"]:before, [class*=" flaticon-celebrations-"]:before,
+[class^="flaticon-celebrations-"]:after, [class*=" flaticon-celebrations-"]:after {   
+	font-family: "flaticon-celebrations";
+    font-size: 20px;
+	font-style: normal;
+	margin-left: 20px;
+}
+
+.flaticon-celebrations-a-pair-of-baloons-of-hearts:before { content: "\f100"; }
+.flaticon-celebrations-add-to-favorite:before { content: "\f101"; }
+.flaticon-celebrations-amplifier:before { content: "\f102"; }
+.flaticon-celebrations-amplifier-1:before { content: "\f103"; }
+.flaticon-celebrations-arch-and-quiver:before { content: "\f104"; }
+.flaticon-celebrations-bad-pirate-face:before { content: "\f105"; }
+.flaticon-celebrations-ball-with-stars-and-ribbon:before { content: "\f106"; }
+.flaticon-celebrations-birthday-cake-with-candles:before { content: "\f107"; }
+.flaticon-celebrations-birthday-cake-with-one-candle:before { content: "\f108"; }
+.flaticon-celebrations-birthday-cake-with-three-candles:before { content: "\f109"; }
+.flaticon-celebrations-birthday-hat-with-dots-and-stars:before { content: "\f10a"; }
+.flaticon-celebrations-birthday-present:before { content: "\f10b"; }
+.flaticon-celebrations-boy-angel-head:before { content: "\f10c"; }
+.flaticon-celebrations-boy-with-headphones:before { content: "\f10d"; }
+.flaticon-celebrations-broken-heart:before { content: "\f10e"; }
+.flaticon-celebrations-burning-sausage-on-a-fork:before { content: "\f10f"; }
+.flaticon-celebrations-candy:before { content: "\f110"; }
+.flaticon-celebrations-celebration-cake:before { content: "\f111"; }
+.flaticon-celebrations-celebration-cake-1:before { content: "\f112"; }
+.flaticon-celebrations-celebration-garlands:before { content: "\f113"; }
+.flaticon-celebrations-celebration-ribbon-in-a-circle:before { content: "\f114"; }
+.flaticon-celebrations-cheers:before { content: "\f115"; }
+.flaticon-celebrations-chinese-food-box-with-chop-sticks:before { content: "\f116"; }
+.flaticon-celebrations-chocolate-donut:before { content: "\f117"; }
+.flaticon-celebrations-christmas-candy-sticks:before { content: "\f118"; }
+.flaticon-celebrations-christmas-sock:before { content: "\f119"; }
+.flaticon-celebrations-christmas-tree-with-star:before { content: "\f11a"; }
+.flaticon-celebrations-circular-glasses-and-mustache-costume:before { content: "\f11b"; }
+.flaticon-celebrations-clown-head:before { content: "\f11c"; }
+.flaticon-celebrations-cocktail-on-a-glass:before { content: "\f11d"; }
+.flaticon-celebrations-console-mixer:before { content: "\f11e"; }
+.flaticon-celebrations-couple-of-bells:before { content: "\f11f"; }
+.flaticon-celebrations-couple-of-glasses-in-a-brindis-for-love:before { content: "\f120"; }
+.flaticon-celebrations-couple-of-striped-balloons:before { content: "\f121"; }
+.flaticon-celebrations-covered-food-tray:before { content: "\f122"; }
+.flaticon-celebrations-daisy-bouquet:before { content: "\f123"; }
+.flaticon-celebrations-decorated-party-whistle:before { content: "\f124"; }
+.flaticon-celebrations-devil-head-with-horns:before { content: "\f125"; }
+.flaticon-celebrations-devil-heart-with-wings:before { content: "\f126"; }
+.flaticon-celebrations-diamond-ring:before { content: "\f127"; }
+.flaticon-celebrations-digital-photo-camera:before { content: "\f128"; }
+.flaticon-celebrations-disco-ball:before { content: "\f129"; }
+.flaticon-celebrations-dj-hand-motion:before { content: "\f12a"; }
+.flaticon-celebrations-drummer-set:before { content: "\f12b"; }
+.flaticon-celebrations-energy-logo:before { content: "\f12c"; }
+.flaticon-celebrations-envelope-with-wings:before { content: "\f12d"; }
+.flaticon-celebrations-firecrackers:before { content: "\f12e"; }
+.flaticon-celebrations-firework-rocket:before { content: "\f12f"; }
+.flaticon-celebrations-fireworks:before { content: "\f130"; }
+.flaticon-celebrations-five-birthday-cake-layers-with-candles:before { content: "\f131"; }
+.flaticon-celebrations-floating-balloons:before { content: "\f132"; }
+.flaticon-celebrations-flower-bouquet:before { content: "\f133"; }
+.flaticon-celebrations-flower-shaped-biscuits:before { content: "\f134"; }
+.flaticon-celebrations-french-fries-box:before { content: "\f135"; }
+.flaticon-celebrations-gingerbread:before { content: "\f136"; }
+.flaticon-celebrations-give-a-gift:before { content: "\f137"; }
+.flaticon-celebrations-giving-love:before { content: "\f138"; }
+.flaticon-celebrations-glass-and-bottle-of-wine:before { content: "\f139"; }
+.flaticon-celebrations-glasses-in-celebration-brindis:before { content: "\f13a"; }
+.flaticon-celebrations-hamburger-with-bacoon:before { content: "\f13b"; }
+.flaticon-celebrations-happy-snowman:before { content: "\f13c"; }
+.flaticon-celebrations-heart-and-wings-tattoo:before { content: "\f13d"; }
+.flaticon-celebrations-heart-between-hands:before { content: "\f13e"; }
+.flaticon-celebrations-heart-cake-with-candle:before { content: "\f13f"; }
+.flaticon-celebrations-heart-in-a-screen:before { content: "\f140"; }
+.flaticon-celebrations-heart-in-flames:before { content: "\f141"; }
+.flaticon-celebrations-heart-pendant:before { content: "\f142"; }
+.flaticon-celebrations-heart-pierced-by-an-arrow:before { content: "\f143"; }
+.flaticon-celebrations-heart-shape-and-arrow-note:before { content: "\f144"; }
+.flaticon-celebrations-heart-shape-box-with-a-ribbon:before { content: "\f145"; }
+.flaticon-celebrations-heart-with-a-pin:before { content: "\f146"; }
+.flaticon-celebrations-heart-with-shine:before { content: "\f147"; }
+.flaticon-celebrations-hearts-balloons:before { content: "\f148"; }
+.flaticon-celebrations-hot-coffee-cup:before { content: "\f149"; }
+.flaticon-celebrations-hot-coffee-cup-with-hearts:before { content: "\f14a"; }
+.flaticon-celebrations-hot-dog-view:before { content: "\f14b"; }
+.flaticon-celebrations-hot-dog-with-mustard:before { content: "\f14c"; }
+.flaticon-celebrations-i-love-you:before { content: "\f14d"; }
+.flaticon-celebrations-ice-cream-cones:before { content: "\f14e"; }
+.flaticon-celebrations-ice-cream-cup:before { content: "\f14f"; }
+.flaticon-celebrations-identification-pass:before { content: "\f150"; }
+.flaticon-celebrations-jar-of-beer-with-lot-of-foam:before { content: "\f151"; }
+.flaticon-celebrations-july-fourth-balloons:before { content: "\f152"; }
+.flaticon-celebrations-king-crown:before { content: "\f153"; }
+.flaticon-celebrations-laptop-with-a-heart:before { content: "\f154"; }
+.flaticon-celebrations-lollipop:before { content: "\f155"; }
+.flaticon-celebrations-long-play-record-cover:before { content: "\f156"; }
+.flaticon-celebrations-looking-for-love:before { content: "\f157"; }
+.flaticon-celebrations-love-pointer:before { content: "\f158"; }
+.flaticon-celebrations-love-search:before { content: "\f159"; }
+.flaticon-celebrations-love-stamp:before { content: "\f15a"; }
+.flaticon-celebrations-lovely-chat-bubble:before { content: "\f15b"; }
+.flaticon-celebrations-magic-stick:before { content: "\f15c"; }
+.flaticon-celebrations-magician-boy:before { content: "\f15d"; }
+.flaticon-celebrations-male-and-female-symbol:before { content: "\f15e"; }
+.flaticon-celebrations-man-thinking-about-love:before { content: "\f15f"; }
+.flaticon-celebrations-man-thinking-about-love-1:before { content: "\f160"; }
+.flaticon-celebrations-man-with-afro-hair-style:before { content: "\f161"; }
+.flaticon-celebrations-meat-pie:before { content: "\f162"; }
+.flaticon-celebrations-mistletoe-leaves:before { content: "\f163"; }
+.flaticon-celebrations-muffin-bake:before { content: "\f164"; }
+.flaticon-celebrations-musical-notes-symbols:before { content: "\f165"; }
+.flaticon-celebrations-open-present-box:before { content: "\f166"; }
+.flaticon-celebrations-opening-a-champagne-bottle:before { content: "\f167"; }
+.flaticon-celebrations-party-decoration:before { content: "\f168"; }
+.flaticon-celebrations-piece-of-birthday-cake:before { content: "\f169"; }
+.flaticon-celebrations-piece-of-cake:before { content: "\f16a"; }
+.flaticon-celebrations-pirate-head:before { content: "\f16b"; }
+.flaticon-celebrations-pizza-slice-cut:before { content: "\f16c"; }
+.flaticon-celebrations-present-ribbon:before { content: "\f16d"; }
+.flaticon-celebrations-prince-crown:before { content: "\f16e"; }
+.flaticon-celebrations-pure-love:before { content: "\f16f"; }
+.flaticon-celebrations-romantic-email:before { content: "\f170"; }
+.flaticon-celebrations-romantic-muffin:before { content: "\f171"; }
+.flaticon-celebrations-rope-fence:before { content: "\f172"; }
+.flaticon-celebrations-sand-clock-with-hearts-shape:before { content: "\f173"; }
+.flaticon-celebrations-santa-claus-hat:before { content: "\f174"; }
+.flaticon-celebrations-sax:before { content: "\f175"; }
+.flaticon-celebrations-seven-piano-keys:before { content: "\f176"; }
+.flaticon-celebrations-soda-drink-with-a-lemon-slice:before { content: "\f177"; }
+.flaticon-celebrations-solid-star-shape-of-five-points:before { content: "\f178"; }
+.flaticon-celebrations-sound-amplification-tool:before { content: "\f179"; }
+.flaticon-celebrations-stars-balloons:before { content: "\f17a"; }
+.flaticon-celebrations-sweet-dessert:before { content: "\f17b"; }
+.flaticon-celebrations-t-shirt-with-heart:before { content: "\f17c"; }
+.flaticon-celebrations-teddy-bear-with-sleep-hat:before { content: "\f17d"; }
+.flaticon-celebrations-teenager-with-sun-glasses:before { content: "\f17e"; }
+.flaticon-celebrations-two-carnival-masks:before { content: "\f17f"; }
+.flaticon-celebrations-two-heart-shaped-balloons:before { content: "\f180"; }
+.flaticon-celebrations-two-hearts:before { content: "\f181"; }
+.flaticon-celebrations-two-roses:before { content: "\f182"; }
+.flaticon-celebrations-v-guitar:before { content: "\f183"; }
+.flaticon-celebrations-valentines-day-calendar-page:before { content: "\f184"; }
+.flaticon-celebrations-vintage-mic:before { content: "\f185"; }
+.flaticon-celebrations-vip-pass:before { content: "\f186"; }
+.flaticon-celebrations-volume-of-sound-bars:before { content: "\f187"; }
+.flaticon-celebrations-waiter-with-a-roast-chicken:before { content: "\f188"; }
+.flaticon-celebrations-wedding-invitation:before { content: "\f189"; }
+.flaticon-celebrations-wine-bottles-in-a-box:before { content: "\f18a"; }
+.flaticon-celebrations-winter-love:before { content: "\f18b"; }

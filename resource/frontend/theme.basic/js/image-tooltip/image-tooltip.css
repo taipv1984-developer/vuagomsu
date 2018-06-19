@@ -1,0 +1,13 @@
+.image-tooltip-popup{
+	padding:5px;
+	position:fixed;
+	background:#333;
+	z-index:999999;
+	width:400px;
+	border: 1px soild #ccc;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.image-tooltip-popup  img{
+    width: 100% !important;
+}

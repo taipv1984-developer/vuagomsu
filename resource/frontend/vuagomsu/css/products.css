@@ -1,0 +1,278 @@
+.prd-list figure {
+	padding: 2px;
+}
+.prd-list figure:hover {
+	/* box-shadow: 0px 0px 0px 2px #BD3600; */
+	-moz-box-shadow: 0px 0px 0px 2px #BD3600;
+	/* -webkit-box-shadow: 0px 0px 0px 2px #BD3600; */
+	/* cursor: pointer; */
+}
+
+.home-block .prd-bestseller {
+	background-color: #f3f3f3;
+}
+.prd-bestseller {
+	margin-bottom: 20px;
+}
+.prd-bestseller .prd-title {
+	padding: 0px 10px 8px;
+	text-align: center;
+}
+.prd-bestseller .owl-carousel .owl-item {
+	padding: 2px;
+}
+.prd-bestseller .owl-carousel .owl-item .prd-list {
+	padding: 0px 10px;
+}
+.prd-bestseller figure > .thumbnail {
+	border: none;
+}
+.prd-bestseller .prd-list .prd-code {
+	left: 12px;
+}
+.prd-bestseller .prd-list .sale-off {
+	right: 12px;
+}
+.prd-bestseller .prd-list .prd-code,
+.prd-bestseller .prd-list .sale-off {
+	top: 0px;
+}
+
+.prd-list-info {
+    padding-left: 15px;
+}
+.image-product-info > .owl-carousel:first-child {
+    margin-bottom: 15px;
+}
+.image-product-info #prdDetailZoom {
+    max-width: 416px;
+}
+.code-product {
+    background-color: #f2f2f2;
+    padding: 5px 8px;
+    font-size: 18px;
+}
+.prd-list-info {
+    padding-top: 10px;
+    border-top: 1px solid #e3e3e3;
+    margin-top: 5px;
+}
+.article-header {
+    margin-bottom: 15px;
+}
+article .body .ship-info {
+    padding: 6px 14px;
+    background-color: #fffaf2;
+    border: 1px solid #fbf1e2;
+}
+article .body .ship-info > h3 {
+    margin-top: 10px;
+}
+
+.products-suggest {
+    background-color: #f3f3f3;
+    padding-bottom: 25px;
+    border-top: 1px solid #e2e2e2;
+}
+.products-suggest .owl-wrapper {
+    margin: 0px -8px;
+}
+.products-suggest .owl-wrapper-outer .owl-item {
+    padding: 0px 8px;
+    margin: 0px;
+}
+.products-suggest .owl-wrapper-outer .owl-item .thumbnail {
+    margin: 0px;
+}
+.products-list .filter-price-custom > h4 {
+    padding: 0px 12px;
+}
+/*--------------0o0 Products style in home 0o0---------------------*/
+.prd-list {
+    margin-bottom: 25px;
+}
+.prd-list .prd-menu .prd-title {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dadada;
+	font-size: 20px;
+}
+.prd-list .block-inner > .prd-menu.l-bl {
+	width: 215px;
+}
+.prd-list .block-inner > .prd-group-list.r-bl {
+	width: calc(100% - 230px);
+}
+.prd-list .block-inner > *:last-child {
+	margin: 0px 0px 0px 15px;
+}
+.prd-list .block-inner > .list-item li {
+	float: left;
+}
+.prd-list .prd-menu .prd-title {
+	margin: 0px 0px 10px;
+}
+.prd-list .block-inner .prd-title > a:hover,
+.prd-list .block-inner .prd-title > a:focus {
+	color: #c28c44;
+}
+.prd-list .list-item li > a {
+    padding: 5px 0px;
+    display: block;
+    color: #333;
+    font-size: 16px;
+}
+.prd-list .list-item li > a:hover,
+.prd-list .list-item li > a:focus {
+    color: #01708e;
+}
+.prd-list .owl-controls .owl-buttons > * {
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transition: all 0.25s linear 0s;
+    -o-transition: all 0.25s linear 0s;
+    -moz-transition: all 0.25s linear 0s;
+    -webkit-transition: all 0.25s linear 0s;
+}
+
+.prd-list .prd-block {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d8d8d8;
+}
+.prd-list .prd-block ul > li > a {
+    font-size: 16px;
+}
+.home-block .prd-list .prd-group {
+    width: 25%;
+}
+.prd-list .prd-group {
+    position: relative;
+    padding: 10px;
+}
+.prd-list .prd-group > .thumbnail {
+    padding: 0px;
+    border: none;
+}
+.prd-list figcaption > h4 {
+    font-size: 16px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+	line-height: 1.5;
+}
+.prd-list .prd-code {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: inline-block;
+    padding: 5px;
+    background-color: #fff;
+    color: #828282;
+    border-radius: 3px 0px 3px 0px;
+    -moz-border-radius: 3px 0px 3px 0px;
+    -webkit-border-radius: 3px 0px 3px 0px;
+	text-transform: uppercase;
+}
+.prd-list .sale-off {
+    position: absolute;
+    top: 10px;
+    padding: 5px 12px;
+    right: 10px;
+    color: #fff;
+    background-color: #ecc921;
+    border-bottom-left-radius: 25px;
+    font-weight: 600;
+}
+.prd-list .prd-group figcaption .pricing {
+    font-size: 16px;
+}
+.prd-list .prd-group figcaption .pricing > del {
+    color: #777;
+	font-size: 14px;
+}
+.prd-list .owl-carousel .owl-wrapper-outer {
+    padding: 30px 0px;
+}
+.prd-list .owl-controls .owl-buttons > * {
+    position: absolute;
+    top: 28%;
+    padding: 22px 6px;
+    background-color: #f3f3f3;
+}
+.prd-list .owl-carousel:hover .owl-controls .owl-buttons > * {
+    opacity: 1;
+    filter: alpha(opacity=1);
+}
+.prd-list .owl-controls .owl-buttons > .owl-prev {
+    border-radius: 0px 3px 3px 0px;
+    -moz-border-radius: 0px 3px 3px 0px;
+    -webkit-border-radius: 0px 3px 3px 0px;
+}
+.prd-list .owl-controls .owl-buttons > .owl-next {
+    right: 0px;
+    border-radius: 3px 0px 0px 3px;
+    -moz-border-radius: 3px 0px 0px 3px;
+    -webkit-border-radius: 3px 0px 0px 3px;
+}
+
+.prd-list .v-cta-g {
+	display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.prd-list .v-cta-g .pricing {
+	margin-right: 8px;
+}
+.prd-list .v-cta-g .btn {
+	flex: 1;
+}
+.prd-list .pricing > p {
+	font-size: 18px;
+	margin: 0px;
+}
+.prd-list .pricing > *:first-child {
+	margin-bottom: 5px;
+}
+.prd-group-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+	margin: 0px -10px;
+	background-color: #f3f3f3;
+}
+
+.navbar-prd-filter {
+    /* margin-bottom: 15px; */
+}
+.navbar-prd-filter li > .dropdown-menu {
+    min-width: 255px;
+}
+
+@media screen and (min-width: 1440px) {
+	.prd-bestseller figure > .thumbnail {
+		width: 257px;
+		height: 257px;
+		overflow: hidden;
+	}
+	.prd-list .prd-group-list.r-bl .prd-group > .thumbnail {
+		width: 207px;
+		height: 207px;
+		overflow: hidden;
+	}
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+	.prd-bestseller figure > .thumbnail {
+		width: 228px;
+		height: 228px;
+		overflow: hidden;
+	}
+	.prd-list .prd-group-list.r-bl .prd-group > .thumbnail {
+		width: 178px;
+		height: 178px;
+		overflow: hidden;
+	}
+}

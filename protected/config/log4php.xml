@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://logging.apache.org/log4php/">
+	<appender name="console" class="LoggerAppenderConsole" ></appender>
+	<appender name="file" class="LoggerAppenderFile" threshold = "info">
+		<layout class="MyLoggerLayoutPattern">
+			<param name="conversionPattern" value="%d{Y-m-d H:i:s}[%p][%c] %m%n" />
+		</layout>
+		<param name="file" value="my.sql" />
+	</appender>
+	<appender name="file-trace" class="LoggerAppenderFile" threshold = "all">
+		<layout class="MyLoggerLayoutPattern">
+			<param name="conversionPattern" value="%d{Y-m-d H:i:s}[%p][%c] %m%n" />
+		</layout>
+		<param name="file" value="my-trace.sql" />
+	</appender>
+	<appender name="file-elapsed-time" class="LoggerAppenderFile" threshold = "all">
+		<layout class="MyLoggerLayoutPattern">
+			<param name="conversionPattern" value="%d{Y-m-d H:i:s}[%p][%c] %m%n" />
+		</layout>
+		<param name="file" value="my-elapsed-time.sql" />
+	</appender>
+	<appender name="file-sql-log" class="LoggerAppenderFile" threshold = "all">
+		<layout class="MyLoggerLayoutPattern">
+			<param name="conversionPattern" value="%d{Y-m-d H:i:s}[%p][%c] %m%n" />
+		</layout>
+		<param name="file" value="my-sql.sql" />
+	</appender>
+	<logger name="ELAPSED TIME" additivity = "true">
+        <level value="trace" />
+        <appender_ref ref="file-elapsed-time" />
+    </logger>
+    <logger name="SQL LOG" additivity = "true">
+        <level value="trace" />
+     	<appender_ref ref="file-sql-log" />
+    </logger> 	
+	<root>
+		<level value="TRACE" />
+		<appender_ref ref="file" />
+		<appender_ref ref="file-trace" />
+	</root>
+</configuration>

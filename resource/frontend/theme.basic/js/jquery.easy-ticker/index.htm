@@ -1,0 +1,220 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jQuery Easy Ticker Examples</title>
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<style>
+.wrapper {
+	width:960px;
+	margin:150px auto;
+}
+.demof {
+border: 1px solid #ccc;
+margin: 25px 0;
+}
+.demof ul {
+padding: 0;
+list-style: none;
+}
+.demof li {
+padding: 20px;
+border-bottom: 1px dashed #ccc;
+}
+.demof li.odd {
+background: #fafafa;
+}
+.demof li:after {
+content: '';
+display: block;
+clear: both;
+}
+.demof img {
+float: left;
+width: 177px;
+margin: 5px 15px 0 0;
+}
+.demof a {
+font-family: Arial, sans-serif;
+font-size: 20px;
+font-weight: bold;
+color: #06f;
+}
+.demof p {
+margin: 15px 0 0;
+font-size: 14px;
+}
+.demo3 {
+font-family: Arial, sans-serif;
+border: 1px solid #C20;
+margin: 50px 0;
+font-style: italic;
+position: relative;
+padding: 0 0 0 80px;
+box-shadow: 0 2px 5px -3px #000;
+border-radius: 3px;
+}
+.demo3:before {
+content: "Latest News";
+display: inline-block;
+font-style: normal;
+background: #C20;
+padding: 10px;
+color: #FFF;
+font-weight: bold;
+position: absolute;
+top: 0;
+left: 0;
+}
+.demo3:after {
+content: '';
+display: block;
+top: 0;
+left: 80px;
+background: linear-gradient(#FFF, rgba(255, 255, 255, 0));
+height: 20px;
+}
+.demo3 ul li {
+list-style: none;
+padding: 10px 0;
+}
+.demo5 {
+border: 2px solid #FF3333;
+margin-top: 10px;
+border-radius: 10px;
+width: 500px;
+-webkit-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, 0.3);
+box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, 0.3);
+}
+.demo5 ul {
+padding: 0;
+}
+.demo5 ul li {
+padding: 10px 10px 10px 10px;
+border-bottom: 1px solid #FF3333;
+border-radius: 10px;
+list-type: none;
+margin: 0;
+}
+.et-run {
+background-color: #0cf;
+color: white;
+border: 1px solid black;
+}
+</style>
+</head>
+
+<body>
+<div id="jquery-script-menu">
+<div class="jquery-script-center">
+<ul>
+<li><a href="http://www.jqueryscript.net/animation/Flexible-Customizable-jQuery-News-Ticker-Plugin-Easy-Ticker.html">Download This Plugin</a></li>
+<li><a href="http://www.jqueryscript.net/">Back To jQueryScript.Net</a></li>
+</ul>
+<div class="jquery-script-ads"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+<div class="wrapper">
+<h2>Example 1</h2>
+<div class="demo1 demof">
+<ul>
+<li><img src="http://www.jqueryscript.net/small/images/jQuery-Plugin-To-Expand-Collapse-Input-Field-Expandable-Input.jpg" alt="Expandable Input" /><a href="http://www.jqueryscript.net/form/jQuery-Plugin-To-Expand-Collapse-Input-Field-Expandable-Input.html">Expandable Input</a>
+<p>Expandable Input is a minimal jQuery plugin to smoothly expand the width of a input filed when focused/clicked and collapse it when lose focus.</p>
+</li>
+<li class="odd"><img src="http://www.jqueryscript.net/small/images/Creating-A-Full-Page-Photo-Gallery-with-jQuery-Photor-Plugin.jpg" alt="jQuery Photor Plugin" /><a href="http://www.jqueryscript.net/gallery/Creating-A-Full-Page-Photo-Gallery-with-jQuery-Photor-Plugin.html">jQuery Photor Plugin</a>
+<p>Photor is a fast and easy jQuery plugin to create a responsive & touch-friendly full page image gallery with CSS3 transitions and transforms.</p>
+</li>
+<li><img src="http://www.jqueryscript.net/small/images/Windows-8-Style-jQuery-Data-Table-Decorator-Metreaux-Tables.jpg" alt="Metreaux Tables" /><a href="http://www.jqueryscript.net/table/Windows-8-Style-jQuery-Data-Table-Decorator-Metreaux-Tables.html">Metreaux Tables</a>
+<p>Metreaux Tables is a jQuery plugin to create nice, clean, themeable, andmodern Windows 8 UI Style data tables with the power of DataTables jQuery javascript library.</p>
+</li>
+</ul>
+</div>
+<h2>Example 2</h2>
+<div class="demo3">
+		<ul>
+			<li>what's causing the layout to break? Attempting to make a horizontal layout website ?</li>
+			<li>WordPress Mobify mobile theme, CSS</li>
+			<li>Gridview with Table.Rows.Count ==0 to show Footer row that include checkbox with imageurl cast</li>
+			<li>JS/jQuery - animated random name picker</li>
+		</ul>
+</div>
+    <h2>Example 3</h2>
+    <div class="demo5 demof">
+<ul>
+<li><img src="http://www.jqueryscript.net/small/images/jQuery-Plugin-To-Expand-Collapse-Input-Field-Expandable-Input.jpg" alt="Expandable Input" /><a href="http://www.jqueryscript.net/form/jQuery-Plugin-To-Expand-Collapse-Input-Field-Expandable-Input.html">Expandable Input</a>
+<p>Expandable Input is a minimal jQuery plugin to smoothly expand the width of a input filed when focused/clicked and collapse it when lose focus.</p>
+</li>
+<li class="odd"><img src="http://www.jqueryscript.net/small/images/Creating-A-Full-Page-Photo-Gallery-with-jQuery-Photor-Plugin.jpg" alt="jQuery Photor Plugin" /><a href="http://www.jqueryscript.net/gallery/Creating-A-Full-Page-Photo-Gallery-with-jQuery-Photor-Plugin.html">jQuery Photor Plugin</a>
+<p>Photor is a fast and easy jQuery plugin to create a responsive & touch-friendly full page image gallery with CSS3 transitions and transforms.</p>
+</li>
+<li><img src="http://www.jqueryscript.net/small/images/Windows-8-Style-jQuery-Data-Table-Decorator-Metreaux-Tables.jpg" alt="Metreaux Tables" /><a href="http://www.jqueryscript.net/table/Windows-8-Style-jQuery-Data-Table-Decorator-Metreaux-Tables.html">Metreaux Tables</a>
+<p>Metreaux Tables is a jQuery plugin to create nice, clean, themeable, andmodern Windows 8 UI Style data tables with the power of DataTables jQuery javascript library.</p>
+</li>
+</ul>
+</div>
+<h4>Control Buttons</h4>
+			<div class="list-group">
+			  <a href="#" class="list-group-item btnUp">Move Up</a>
+			  <a href="#" class="list-group-item btnDown">Move Down</a>
+			  <a href="#" class="list-group-item btnToggle">Play / Pause</a>
+			</div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
+<script src="jquery.easy-ticker.js"></script> 
+<script>
+$(function(){
+	$('.demo1').easyTicker({
+		direction: 'up',
+		easing: 'swing'
+	});
+	
+	
+	
+	$('.demo3').easyTicker({
+		visible: 1,
+		interval: 4000
+	});
+	
+	
+	$('.demo5').easyTicker({
+		direction: 'up',
+		visible: 3,
+		interval: 2500,
+		controls: {
+			up: '.btnUp',
+			down: '.btnDown',
+			toggle: '.btnToggle'
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

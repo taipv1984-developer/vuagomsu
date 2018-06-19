@@ -1,0 +1,24 @@
+log 80%
+log chua co time
+template
+bo $this->setAttributes(array( dung public
+
+ok tinymce -> ckeditor
+    nhieu thang lay info them bang lenh sql qua (layout/manage, category/manage(cai nay co the bo vi con lien quan de cha con)
+    tat cac ca lenh sql dung in phai chuyen sang viet truc tiep (getAllLayoutWidget)
+    <!-- modal -->
+ok title, desction-meta... chua dong
+ok seo_info
+    kiem tra xem cac url cua anh thi khong ghi log hay kiem tra quyen nua (co anh huong den speed ko (local speed = 1s)
+    trang 404 hien ko co giao dien (lam giong vuagomsu)
+    dashboard giong vuagomsu
+...
+
+kiem tra lai phan quyen va cac cache (luc buil my_tool dang mo)
+
+db
+    seo_info_lang   ->  seo_info
+        keywords    ->  keyword
+
+    setting
+        meta_keywords ->    meta_keyword

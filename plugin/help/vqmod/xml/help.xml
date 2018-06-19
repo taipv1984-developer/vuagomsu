@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<file name="view/common/tool_bar/component/title.php">
+		<operation>
+			<search position="bottom"><![CDATA[]]></search>
+			<add><![CDATA[
+<?php 
+	//get current router
+	$r = $_REQUEST[ACTION_PARAM];
+	
+	//getHelpRouter
+	FileHelper::loadAuto('Help');
+	$routerHelp = CHelpExt::getRouterArray();
+	
+	//show icon help
+	if(isset($routerHelp[$r])){
+		foreach ($routerHelp[$r] as $k => $v){
+?>
+	<a href="index.php?r=admin/help/view&helpId=<?php echo $k?>" class="linkViewPopup popup_max" title="<?php echo $v?>">
+		<i class="fa fa-question-circle red" style=" margin-left:5px; font-size: 16px"></i>
+	</a>
+<?php			
+		}
+	}
+?>
+			]]></add>
+		</operation>
+	</file>
+</modification>

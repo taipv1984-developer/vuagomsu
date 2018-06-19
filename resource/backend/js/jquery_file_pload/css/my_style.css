@@ -1,0 +1,48 @@
+/*********************
+my style
+*********************/
+.my_tr{
+    float: left;
+	
+    width: 180px; 
+    height: 160px;
+    border: 1px solid #ccc;
+    margin: 0 10px 10px 0;
+    overflow: hidden;
+}
+.my_td{
+    padding: 0 !important;
+	
+    float: left;
+    width: 100%;
+    position: relative;
+    background: none !important;
+}
+.my_td .image{
+}
+.my_td .image img{
+    width: 180px;
+    height: 120px;
+}
+.my_td .image_name{
+    text-align: center;
+    padding: 6px 0;
+    background-color: #fff;
+}
+.my_td .delete{
+    /* background: none !important; */
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 2px 6px;
+    border-radius: 12px !important;
+}
+.my_td .delete i{
+}
+.my_td .delete span{
+    display: none;
+}
+.my_td input[type=checkbox]{
+    display: none;
+}

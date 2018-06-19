@@ -1,0 +1,131 @@
+	/*
+  	flaticon-kitchen icon font: flaticon-kitchen
+  	Creation date: 02/11/2016 08:11
+  	*/
+
+@font-face {
+  font-family: "flaticon-kitchen";
+  src: url("flaticon-kitchen.eot");
+  src: url("flaticon-kitchen.eot?#iefix") format("embedded-opentype"),
+       url("flaticon-kitchen.woff") format("woff"),
+       url("flaticon-kitchen.ttf") format("truetype"),
+       url("flaticon-kitchen.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-kitchen";
+    src: url("flaticon-kitchen.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-kitchen-"]:before, [class*=" flaticon-kitchen-"]:before,
+[class^="flaticon-kitchen-"]:after, [class*=" flaticon-kitchen-"]:after {   
+	font-family: "flaticon-kitchen";
+    font-size: 20px;
+	font-style: normal;
+	margin-left: 20px;
+}
+
+.flaticon-kitchen-apron:before { content: "\f100"; }
+.flaticon-kitchen-barbecue:before { content: "\f101"; }
+.flaticon-kitchen-bottle-opener:before { content: "\f102"; }
+.flaticon-kitchen-bowl:before { content: "\f103"; }
+.flaticon-kitchen-brush:before { content: "\f104"; }
+.flaticon-kitchen-cabinet:before { content: "\f105"; }
+.flaticon-kitchen-cabinet-1:before { content: "\f106"; }
+.flaticon-kitchen-cabinet-2:before { content: "\f107"; }
+.flaticon-kitchen-chef:before { content: "\f108"; }
+.flaticon-kitchen-cleaver:before { content: "\f109"; }
+.flaticon-kitchen-cocktail:before { content: "\f10a"; }
+.flaticon-kitchen-coffee-grinder:before { content: "\f10b"; }
+.flaticon-kitchen-coffee-maker:before { content: "\f10c"; }
+.flaticon-kitchen-coffee-maker-1:before { content: "\f10d"; }
+.flaticon-kitchen-coffee-pot:before { content: "\f10e"; }
+.flaticon-kitchen-conserve:before { content: "\f10f"; }
+.flaticon-kitchen-conserve-1:before { content: "\f110"; }
+.flaticon-kitchen-corkscrew:before { content: "\f111"; }
+.flaticon-kitchen-cup:before { content: "\f112"; }
+.flaticon-kitchen-cutlery:before { content: "\f113"; }
+.flaticon-kitchen-dinner:before { content: "\f114"; }
+.flaticon-kitchen-dish:before { content: "\f115"; }
+.flaticon-kitchen-dishes:before { content: "\f116"; }
+.flaticon-kitchen-dishwasher:before { content: "\f117"; }
+.flaticon-kitchen-eggs:before { content: "\f118"; }
+.flaticon-kitchen-extractor-hood:before { content: "\f119"; }
+.flaticon-kitchen-extractor-hood-1:before { content: "\f11a"; }
+.flaticon-kitchen-fork:before { content: "\f11b"; }
+.flaticon-kitchen-freezer:before { content: "\f11c"; }
+.flaticon-kitchen-fridge:before { content: "\f11d"; }
+.flaticon-kitchen-fridge-1:before { content: "\f11e"; }
+.flaticon-kitchen-garbage:before { content: "\f11f"; }
+.flaticon-kitchen-glass:before { content: "\f120"; }
+.flaticon-kitchen-grater:before { content: "\f121"; }
+.flaticon-kitchen-ice-cube-tray:before { content: "\f122"; }
+.flaticon-kitchen-jar:before { content: "\f123"; }
+.flaticon-kitchen-kettle:before { content: "\f124"; }
+.flaticon-kitchen-kettle-1:before { content: "\f125"; }
+.flaticon-kitchen-kettle-2:before { content: "\f126"; }
+.flaticon-kitchen-kitchen-board:before { content: "\f127"; }
+.flaticon-kitchen-kitchen-board-1:before { content: "\f128"; }
+.flaticon-kitchen-knife:before { content: "\f129"; }
+.flaticon-kitchen-knife-1:before { content: "\f12a"; }
+.flaticon-kitchen-ladle:before { content: "\f12b"; }
+.flaticon-kitchen-ladle-1:before { content: "\f12c"; }
+.flaticon-kitchen-measuring-cup:before { content: "\f12d"; }
+.flaticon-kitchen-microwave:before { content: "\f12e"; }
+.flaticon-kitchen-milk:before { content: "\f12f"; }
+.flaticon-kitchen-mitten:before { content: "\f130"; }
+.flaticon-kitchen-mixer:before { content: "\f131"; }
+.flaticon-kitchen-mixer-1:before { content: "\f132"; }
+.flaticon-kitchen-mixer-2:before { content: "\f133"; }
+.flaticon-kitchen-mixer-3:before { content: "\f134"; }
+.flaticon-kitchen-molded:before { content: "\f135"; }
+.flaticon-kitchen-molded-1:before { content: "\f136"; }
+.flaticon-kitchen-molded-2:before { content: "\f137"; }
+.flaticon-kitchen-mortar:before { content: "\f138"; }
+.flaticon-kitchen-napkin:before { content: "\f139"; }
+.flaticon-kitchen-olive-oil:before { content: "\f13a"; }
+.flaticon-kitchen-oven:before { content: "\f13b"; }
+.flaticon-kitchen-paddle:before { content: "\f13c"; }
+.flaticon-kitchen-paella:before { content: "\f13d"; }
+.flaticon-kitchen-pan:before { content: "\f13e"; }
+.flaticon-kitchen-peeler:before { content: "\f13f"; }
+.flaticon-kitchen-pepper:before { content: "\f140"; }
+.flaticon-kitchen-pizza-cutter:before { content: "\f141"; }
+.flaticon-kitchen-platter:before { content: "\f142"; }
+.flaticon-kitchen-pot:before { content: "\f143"; }
+.flaticon-kitchen-pot-1:before { content: "\f144"; }
+.flaticon-kitchen-recipe:before { content: "\f145"; }
+.flaticon-kitchen-recipe-1:before { content: "\f146"; }
+.flaticon-kitchen-recipe-2:before { content: "\f147"; }
+.flaticon-kitchen-rolling-pin:before { content: "\f148"; }
+.flaticon-kitchen-salt-shaker:before { content: "\f149"; }
+.flaticon-kitchen-saucepan:before { content: "\f14a"; }
+.flaticon-kitchen-sauces:before { content: "\f14b"; }
+.flaticon-kitchen-scoop:before { content: "\f14c"; }
+.flaticon-kitchen-skimmer:before { content: "\f14d"; }
+.flaticon-kitchen-soap-dispenser:before { content: "\f14e"; }
+.flaticon-kitchen-spatula:before { content: "\f14f"; }
+.flaticon-kitchen-squeezer:before { content: "\f150"; }
+.flaticon-kitchen-stove:before { content: "\f151"; }
+.flaticon-kitchen-strainer:before { content: "\f152"; }
+.flaticon-kitchen-strainer-1:before { content: "\f153"; }
+.flaticon-kitchen-table:before { content: "\f154"; }
+.flaticon-kitchen-table-1:before { content: "\f155"; }
+.flaticon-kitchen-tap:before { content: "\f156"; }
+.flaticon-kitchen-tap-1:before { content: "\f157"; }
+.flaticon-kitchen-tea-cup:before { content: "\f158"; }
+.flaticon-kitchen-tea-cup-1:before { content: "\f159"; }
+.flaticon-kitchen-thermos:before { content: "\f15a"; }
+.flaticon-kitchen-timer:before { content: "\f15b"; }
+.flaticon-kitchen-timer-1:before { content: "\f15c"; }
+.flaticon-kitchen-toaster:before { content: "\f15d"; }
+.flaticon-kitchen-towel:before { content: "\f15e"; }
+.flaticon-kitchen-trash:before { content: "\f15f"; }
+.flaticon-kitchen-washing-machine:before { content: "\f160"; }
+.flaticon-kitchen-weight:before { content: "\f161"; }
+.flaticon-kitchen-wheat:before { content: "\f162"; }
+.flaticon-kitchen-wine-bottle:before { content: "\f163"; }

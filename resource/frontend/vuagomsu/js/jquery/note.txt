@@ -1,0 +1,1 @@
+jquery.min.1.9 ko dung duoc thu vien cloud-zoom len phai dung jquery.min.1.6 cua no ~~

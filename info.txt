@@ -1,0 +1,44 @@
+vps
+	http://103.200.22.81/svn/vuagomsu
+	hoang/12111988
+
+hostting
+	IP: 103.200.22.81
+	Username: root
+	Password: eq2AxEoGuvQj0sPv
+	code trong thu muc /var/www/html
+
+phpadmin
+	http://103.200.22.81/phpmyadmin
+	root
+	12111988
+	
+db
+	$database ='vuagomsu';
+	$username = 'root';
+	$password = '12111988';
+	
+replace DB	
+	http://localhost/vuagomsu
+	->
+	http://103.200.22.81/vuagomsu
+	http://vuagomsu.vn
+	
+	http:\\/\\/localhost\\/vuagomsu
+	->
+	http:\\/\\/103.200.22.81\\/vuagomsu
+	http:\\/\\/vuagomsu.vn
+	
+ui
+	https://themes.bizweb.vn/demo/noi-that-viet
+
+
+???
+	http://vuagomsu.vn
+	DB 	vuagomsu_live
+	ftp	OK
+
+
+	http://vuagomsu.com
+	DB 	vuagomsu.com
+	ftp	???

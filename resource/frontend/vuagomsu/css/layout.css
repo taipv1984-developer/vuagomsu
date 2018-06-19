@@ -1,0 +1,11 @@
+.main_menu_row{
+    border-top: solid 1px #e1e1e1;
+}
+.footer_row {
+    color: #fff;
+}
+.footer_row a{
+    /* color: #2a6496; */
+    color: #729a33;
+}
+
